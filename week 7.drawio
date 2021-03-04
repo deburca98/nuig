@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T22:31:17.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="3MjOl34QRwYQCsitcs7V" version="14.4.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-04T23:13:36.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="GSf25RTWxmskHDT3WCmh" version="14.4.4" type="github" pages="4">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FcvF6qEiQwlLtSdHjs9_" name="Page-2">
-    <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="vxC3MntsO-3d9teD3gYg-0" />
         <mxCell id="vxC3MntsO-3d9teD3gYg-1" parent="vxC3MntsO-3d9teD3gYg-0" />
@@ -140,10 +140,47 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P2r-Rcwhzh6Bz3FmMYfX" name="Page-3">
-    <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="Y6Ozc33cqCR87LpAZjgi-0" />
         <mxCell id="Y6Ozc33cqCR87LpAZjgi-1" parent="Y6Ozc33cqCR87LpAZjgi-0" />
+        <mxCell id="1zRipeo04ZNXflHodxW8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Y6Ozc33cqCR87LpAZjgi-1" source="aPJH9OSshXCWPAVRwdwy-3" target="aPJH9OSshXCWPAVRwdwy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aPJH9OSshXCWPAVRwdwy-3" value="Portability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Y6Ozc33cqCR87LpAZjgi-1">
+          <mxGeometry x="170" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aPJH9OSshXCWPAVRwdwy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="aPJH9OSshXCWPAVRwdwy-5" target="aPJH9OSshXCWPAVRwdwy-11" parent="Y6Ozc33cqCR87LpAZjgi-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="440" />
+              <mxPoint x="580" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1zRipeo04ZNXflHodxW8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="Y6Ozc33cqCR87LpAZjgi-1" source="aPJH9OSshXCWPAVRwdwy-5" target="1zRipeo04ZNXflHodxW8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aPJH9OSshXCWPAVRwdwy-5" value="instalability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Y6Ozc33cqCR87LpAZjgi-1">
+          <mxGeometry x="400" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aPJH9OSshXCWPAVRwdwy-11" value="number of&amp;nbsp; actions to install" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Y6Ozc33cqCR87LpAZjgi-1">
+          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1zRipeo04ZNXflHodxW8-4" value="installation effort" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Y6Ozc33cqCR87LpAZjgi-1">
+          <mxGeometry x="640" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1zRipeo04ZNXflHodxW8-6" value="https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/wiai_lehrstuehle/praktische_informatik/Dateien/SOCA13-Installability.pdf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Y6Ozc33cqCR87LpAZjgi-1">
+          <mxGeometry x="20" y="660" width="680" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dqlF_9ppG_Q_3NOaSl59" name="Page-4">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="E-IyYVwnnmJI1cFYSn5p-0" />
+        <mxCell id="E-IyYVwnnmJI1cFYSn5p-1" parent="E-IyYVwnnmJI1cFYSn5p-0" />
       </root>
     </mxGraphModel>
   </diagram>
