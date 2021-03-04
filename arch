@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T09:20:43.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="y4C66p9Nmo1CSf5cAxNT" version="14.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-04T00:14:02.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="dGs4B7bFHLdDevuxUZGg" version="14.4.2" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,17 +52,41 @@
       <root>
         <mxCell id="JlbdNTCYB2Mqr24y8Hps-0" />
         <mxCell id="JlbdNTCYB2Mqr24y8Hps-1" parent="JlbdNTCYB2Mqr24y8Hps-0" />
-        <mxCell id="JlbdNTCYB2Mqr24y8Hps-2" value="Web Browser (Customer) ,&amp;nbsp; Telephone system(Service_com) , Patient management system , Accounts system" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JlbdNTCYB2Mqr24y8Hps-1">
-          <mxGeometry x="271" y="90" width="580" height="60" as="geometry" />
+        <mxCell id="huyR6wKR0m-MoGMm20_D-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="JlbdNTCYB2Mqr24y8Hps-1">
+          <mxGeometry x="50" y="585" width="910" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="JlbdNTCYB2Mqr24y8Hps-3" value=", Patient ID database(login).PDF forms , Excel data spreadsheets, calendar tool , schedule validation , staff login." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JlbdNTCYB2Mqr24y8Hps-1">
-          <mxGeometry x="270" y="200" width="580" height="60" as="geometry" />
+        <mxCell id="huyR6wKR0m-MoGMm20_D-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="JlbdNTCYB2Mqr24y8Hps-1">
+          <mxGeometry x="40" y="80" width="900" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JlbdNTCYB2Mqr24y8Hps-5" value="&lt;span&gt;Xcom system management(File import) , XCOM Database, Treatment price database import, accounts database import&amp;nbsp;export , patient history database import&amp;nbsp;and export , audit trail log import and export&amp;nbsp;&lt;/span&gt;Active directory Authentication (Staff) , email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JlbdNTCYB2Mqr24y8Hps-1">
-          <mxGeometry x="271" y="310" width="580" height="60" as="geometry" />
+        <mxCell id="JlbdNTCYB2Mqr24y8Hps-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Web Browser (Customer) ,&amp;nbsp; Telephone system(Service_com) , Patient management system , Accounts system&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="JlbdNTCYB2Mqr24y8Hps-1" vertex="1">
+          <mxGeometry x="271" y="90" width="639" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JlbdNTCYB2Mqr24y8Hps-7" value="Operating System,&amp;nbsp; Xcom image database, ,Dental point LAN , Database storage, service coms telephone exchange , SAGE transaction management system , treatment price database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JlbdNTCYB2Mqr24y8Hps-1">
-          <mxGeometry x="270" y="420" width="580" height="60" as="geometry" />
+        <mxCell id="JlbdNTCYB2Mqr24y8Hps-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;Patient ID database(login).PDF forms , Excel data spreadsheets, calendar tool , schedule validation , staff login.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="JlbdNTCYB2Mqr24y8Hps-1" vertex="1">
+          <mxGeometry x="270" y="200" width="640" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JlbdNTCYB2Mqr24y8Hps-5" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;span&gt;Xcom system management(File import) , XCOM Database, Treatment price database import, accounts database import&amp;nbsp;export , patient history database import&amp;nbsp;and export , audit trail log import and export&amp;nbsp;&lt;/span&gt;Active directory Authentication (Staff) , email&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="JlbdNTCYB2Mqr24y8Hps-1" vertex="1">
+          <mxGeometry x="270" y="380" width="651" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JlbdNTCYB2Mqr24y8Hps-7" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Operating System,&amp;nbsp; Xcom image database, ,Dental point LAN , Database storage, service coms telephone exchange , SAGE transaction management system , treatment price database&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JlbdNTCYB2Mqr24y8Hps-1" vertex="1">
+          <mxGeometry x="260" y="590" width="650" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="huyR6wKR0m-MoGMm20_D-1" value="&lt;b&gt;User Interface Layer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="JlbdNTCYB2Mqr24y8Hps-1">
+          <mxGeometry x="65" y="100" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="huyR6wKR0m-MoGMm20_D-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="JlbdNTCYB2Mqr24y8Hps-1">
+          <mxGeometry x="40" y="190" width="900" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="huyR6wKR0m-MoGMm20_D-5" value="Application&amp;nbsp; Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="JlbdNTCYB2Mqr24y8Hps-1">
+          <mxGeometry x="65" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="huyR6wKR0m-MoGMm20_D-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="JlbdNTCYB2Mqr24y8Hps-1">
+          <mxGeometry x="40" y="370" width="910" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="huyR6wKR0m-MoGMm20_D-9" value="Application Utility Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="JlbdNTCYB2Mqr24y8Hps-1">
+          <mxGeometry x="80" y="405" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="huyR6wKR0m-MoGMm20_D-11" value="System Support" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="JlbdNTCYB2Mqr24y8Hps-1">
+          <mxGeometry x="80" y="630" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
