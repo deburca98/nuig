@@ -1,1 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T16:05:22.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.1.4" etag="PYbj9HN6z0m1FvQWVD3b" type="github"><diagram id="Zv1JMGhqO5jj4lJcEIO6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-13T16:23:27.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="OzbcnjDRsDVluJMZNka3" version="20.1.4" type="github">
+  <diagram id="Zv1JMGhqO5jj4lJcEIO6" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UapMbDKr4BU9aR1uLXHf-1" target="UapMbDKr4BU9aR1uLXHf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UapMbDKr4BU9aR1uLXHf-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UapMbDKr4BU9aR1uLXHf-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-2" value="Manufacturer meets Qualifing criteria" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="20" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-5" value="Manufacturer selects leveraging system&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="45" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-181;" vertex="1" parent="1">
+          <mxGeometry x="650" y="20" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-8" value="NSAI needs to define what types&lt;br&gt;qualifies for each section and clinical and create a&lt;br&gt;&amp;nbsp;deviation process for this to occur." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="45" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UapMbDKr4BU9aR1uLXHf-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-10" value="New Leveraged CA process" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-11" value="SW" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="90" y="520" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-12" value="MFS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-13" value="Clinical" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="90" y="480" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-14" value="Biocomp" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="90" y="395" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-15" value="Ster" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="90" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UapMbDKr4BU9aR1uLXHf-16" target="UapMbDKr4BU9aR1uLXHf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-16" value="Tech Doc" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-17" value="ERs &amp;amp; GSPRS&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="90" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="650" y="360" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-20" value="NSAI needs to define&lt;br&gt;&amp;nbsp;how a leveraged process would look&amp;nbsp; What does&lt;br&gt;&amp;nbsp;NANDO Holder decide&amp;nbsp;&lt;br&gt;Is test data vital, ie do we do a deeper dive into the quality of the test data&lt;br&gt;Can QMS audits be incorporated?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="350" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-22" value="Stable Design , Low risk&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="165" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-23" value="Med Substances" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="90" y="600" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="205" y="460" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-26" value="Annex 2&amp;nbsp; Requirements ?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="490" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-28" value="What is output" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="550" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-31" value="Possible inputs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="165" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="640" y="540" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-33" value="Does the&amp;nbsp; Process allow the Annex 2 requirements be fulfilled by older data&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="540" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UapMbDKr4BU9aR1uLXHf-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-34" value="Is it Annex 1 only" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="575" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-36" value="Then a normal review" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="840" y="575" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-37" value="Are we accepting a lot on face value&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="775" y="440" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UapMbDKr4BU9aR1uLXHf-38" value="Do we need to update forms how is this documented in&lt;br&gt;&amp;nbsp;Current Conformity assessment process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="610" width="320" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
